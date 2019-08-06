@@ -1,0 +1,12 @@
+.login-button {
+  padding: 10px 30px;
+  border: 1px transparent solid;
+  box-sizing: border-box;
+  font-size: 0.8em;
+}
+
+.login-button:hover {
+  border: 0.75px solid #f9c910;
+  outline: 0.25px solid #3c3c3c;
+  box-sizing: border-box;
+}
